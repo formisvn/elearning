@@ -1,0 +1,13 @@
+[Thu Jun 02 09:45:12.740236 2016] [ssl:warn] [pid 10668:tid 284] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Jun 02 09:45:13.067836 2016] [ssl:warn] [pid 10668:tid 284] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Jun 02 09:45:13.348637 2016] [mpm_winnt:notice] [pid 10668:tid 284] AH00455: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.25 configured -- resuming normal operations
+[Thu Jun 02 09:45:13.348637 2016] [mpm_winnt:notice] [pid 10668:tid 284] AH00456: Apache Lounge VC10 Server built: Nov 26 2013 16:07:35
+[Thu Jun 02 09:45:13.348637 2016] [core:notice] [pid 10668:tid 284] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Users/Mikko FORMIS/Documents/FORMIS II/Training/Moodle/server/apache -f conf\\httpd.conf'
+[Thu Jun 02 09:45:13.411037 2016] [mpm_winnt:notice] [pid 10668:tid 284] AH00418: Parent: Created child process 8340
+Apache server shutdown initiated...
+sl:warn] [pid 8340:tid 296] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Jun 02 09:45:14.269038 2016] [ssl:warn] [pid 8340:tid 296] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Jun 02 09:45:14.300239 2016] [mpm_winnt:notice] [pid 8340:tid 296] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 02 09:45:49.802509 2016] [mpm_winnt:notice] [pid 10668:tid 284] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 02 09:45:51.825913 2016] [mpm_winnt:notice] [pid 8340:tid 296] AH00364: Child: All worker threads have exited.
+[Thu Jun 02 09:45:51.841513 2016] [mpm_winnt:notice] [pid 10668:tid 284] AH00430: Parent: Child process 8340 exited successfully.

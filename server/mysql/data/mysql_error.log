@@ -1,0 +1,36 @@
+160602  9:45:11 [Note] Plugin 'FEDERATED' is disabled.
+160602  9:45:11 InnoDB: The InnoDB memory heap is disabled
+160602  9:45:11 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+160602  9:45:11 InnoDB: Compressed tables use zlib 1.2.3
+160602  9:45:11 InnoDB: Initializing buffer pool, size = 128.0M
+160602  9:45:11 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file C:\Users\Mikko FORMIS\Documents\FORMIS II\Training\Moodle\server\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+160602  9:45:11  InnoDB: Setting file C:\Users\Mikko FORMIS\Documents\FORMIS II\Training\Moodle\server\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+160602  9:45:11  InnoDB: Log file C:\Users\Mikko FORMIS\Documents\FORMIS II\Training\Moodle\server\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file C:\Users\Mikko FORMIS\Documents\FORMIS II\Training\Moodle\server\mysql\data\ib_logfile0 size to 32 MB
+InnoDB: Database physically writes the file full: wait...
+160602  9:45:12  InnoDB: Log file C:\Users\Mikko FORMIS\Documents\FORMIS II\Training\Moodle\server\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file C:\Users\Mikko FORMIS\Documents\FORMIS II\Training\Moodle\server\mysql\data\ib_logfile1 size to 32 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+160602  9:45:14  InnoDB: Waiting for the background threads to start
+160602  9:45:15 InnoDB: 5.5.36 started; log sequence number 0
+160602  9:45:15 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+160602  9:45:15 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+160602  9:45:15 [Note] Server socket created on IP: '0.0.0.0'.
+160602  9:45:15 [Note] Event Scheduler: Loaded 0 events
+160602  9:45:15 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.36'  socket: ''  port: 3306  MySQL Community Server (GPL)
+160602  9:46:08 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160602  9:46:08 [Note] Event Scheduler: Purging the queue. 0 events
+160602  9:46:08  InnoDB: Starting shutdown...
+160602  9:46:08  InnoDB: Shutdown completed; log sequence number 1595675
+160602  9:46:08 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
